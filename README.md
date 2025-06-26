@@ -71,3 +71,5 @@ The model achieves good performance on the FashionMNIST dataset, showing that ev
 This project demonstrates a hands-on implementation of image classification using Convolutional Neural Networks in PyTorch. It covers all the essential steps from data preprocessing to model training, evaluation, and visualization. The results highlight CNN’s effectiveness in handling visual data and its potential use in various real-world applications like product recognition, medical imaging, and face detection.
 
 # OUTPUT
+
+![Image](https://github.com/user-attachments/assets/eeed7074-ea14-4bd2-9f37-22ce6f7d8f72)
